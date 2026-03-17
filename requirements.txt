@@ -1,1 +1,3 @@
-ss
+cheops-pipe
+numpy
+astropy
